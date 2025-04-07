@@ -1,5 +1,9 @@
 <div align="center">
+
 # AI-Rabbi: A helpful Jewish civilization learning Assistant
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 </div>
 
@@ -25,7 +29,6 @@ pip install -e '.[torch,metrics]'
 
 We release the SFT model's parameters at [hugging face](https://huggingface.co/miniFranka/AI-Rabbi), you can directly clone it and use!
 
-
 ## 💡Getting Started
 
 ### Chat
@@ -43,8 +46,6 @@ or use the ```ori_test.sh``` in the repo.
 ### SFT
 
 For more usage about sft, please refer to the [Llama_factory](https://github.com/hiyouga/LLaMA-Factory)
-
-
 
 ## 📜️ License
 
